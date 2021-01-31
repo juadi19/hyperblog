@@ -1,4 +1,4 @@
-# Hyperblog :tw-2705:  
+# Hyperblog  💚  
 Un blog increíble para el curso de Git y GitHub de Platzi por Juan Diego
 > El curso de Git y GitHub nos muestra de un amanera muy sencilla pero tecnica a la vez todo el proceso desde como iniciar y llevar tu repositorio local, hasta enlazalo con la plataforma online
 > - Juan Diego
